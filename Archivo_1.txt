@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 41
 Blanco 
+=======
+Alejandro 
+31
+Blanco Camino
+Edad 50
+>>>>>>> feature-tarea1
